@@ -1,0 +1,1 @@
+﻿"Ostatni dostępna cena złota to: {0} PLN z dnia {1}"

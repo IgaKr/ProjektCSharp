@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProstyKalkulator": {
+      "commandName": "Project",
+      "commandLineArgs": "Z"
+    }
+  }
+}

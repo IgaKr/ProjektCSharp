@@ -1,0 +1,1 @@
+﻿Najwyższa cena złota z ostatnich 30 notowań to: {0} z dnia: {1}
